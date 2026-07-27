@@ -66,13 +66,13 @@ My responsibilities included:
 Add selected cover and page preview images here.
 
 ```markdown
-![French Book Cover](images/my-first-money-adventure-french.jpg)
+## Project Preview
 
-![French Page Preview](images/mfma-fr-chap1.jpg)
-
-![French Page Preview](images/mfma-chap1-image.jpg)
-
-![French Book Cover](images/mfma-fr-backcover.jpg)
+- [View the French front cover](images/my-first-money-adventure-french.pdf)
+- [View the table of contents](images/mfma-fr-table-of-contents.pdf)
+- [View the Chapter 1 opening page](images/mfma-fr-chap1.pdf)
+- [View a Chapter 1 illustration](images/mfma-chap1-image.pdf)
+- [View the French back cover](images/mfma-fr-backcover.pdf)
 
 ## Full Book
 

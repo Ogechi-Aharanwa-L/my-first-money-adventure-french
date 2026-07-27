@@ -61,11 +61,7 @@ My responsibilities included:
 - Digital publishing
 - HeyGen video production
 
-## Project Preview
 
-Add selected cover and page preview images here.
-
-```markdown
 ## Project Preview
 
 - [View the French front cover](images/my-first-money-adventure-french.pdf)
@@ -74,16 +70,4 @@ Add selected cover and page preview images here.
 - [View a Chapter 1 illustration](images/mfma-chap1-image.pdf)
 - [View the French back cover](images/mfma-fr-backcover.pdf)
 
-## Full Book
 
-The complete PDF is not stored directly in this repository because the file size exceeds GitHub’s browser upload limit.
-
-**View the full French edition:**  
-PASTE-PUBLIC-BOOK-LINK-HERE
-
-## Video Showcase
-
-A short portfolio video was created to present the translation process, final layout and educational purpose of the French edition.
-
-**Watch the showcase:**  
-PASTE-VIDEO-LINK-HERE
